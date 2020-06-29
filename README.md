@@ -2,7 +2,7 @@
 
 App contador de pessoas em Flutter desenvolvido no curso do Daniel Ciolfi.
 
-![](https://imgur.com/EKmgjiK.gif)
 
+ <img src="https://imgur.com/G9AEQAH.gif" width="300" height="500" />
 
 
